@@ -1,0 +1,20 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{LWD{\etalchar{+}}23}
+
+\bibitem[KLZ{\etalchar{+}}23]{kwon2023efficientmemorymanagementlarge}
+Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody~Hao Yu, Joseph~E. Gonzalez, Hao Zhang, and Ion Stoica.
+\newblock Efficient memory management for large language model serving with pagedattention, 2023.
+
+\bibitem[LWD{\etalchar{+}}23]{liu2023dejavucontextualsparsity}
+Zichang Liu, Jue Wang, Tri Dao, Tianyi Zhou, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce~Zhang, Yuandong Tian, Christopher Re, and Beidi Chen.
+\newblock Deja vu: Contextual sparsity for efficient llms at inference time, 2023.
+
+\bibitem[SMXC24]{song2024powerinferfastlargelanguage}
+Yixin Song, Zeyu Mi, Haotong Xie, and Haibo Chen.
+\newblock Powerinfer: Fast large language model serving with a consumer-grade gpu, 2024.
+
+\bibitem[XSM{\etalchar{+}}24]{xue2024powerinfer2fastlargelanguage}
+Zhenliang Xue, Yixin Song, Zeyu Mi, Xinrui Zheng, Yubin Xia, and Haibo Chen.
+\newblock Powerinfer-2: Fast large language model inference on a smartphone, 2024.
+
+\end{thebibliography}
